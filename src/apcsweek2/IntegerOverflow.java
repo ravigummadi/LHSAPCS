@@ -8,6 +8,7 @@ public class IntegerOverflow {
 		boolean c;
 		if(c=false)
 			System.out.println(c);
+		System.out.println('s' + 's');
 		System.out.println(c);		
 		int n = 0;
 		Boolean isError = false;

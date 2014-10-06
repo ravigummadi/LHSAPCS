@@ -15,6 +15,16 @@ public class Calendar {
 	}
 }
 
+
+class YearlyCalendar {
+
+	// Implement this method....
+	public void print(){
+		
+	}
+}
+
+
 class MonthlyCalendar {
 
 	private int firstSunday;
